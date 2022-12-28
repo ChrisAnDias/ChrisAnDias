@@ -4,7 +4,7 @@
 - 🌱 Yêeeei! Participando do curso de **Back-End da {Reprograma}**. Então estudando atualmente a linguagem **JavaScript** para esse curso. 
 - 🐱‍💻 E estudando mais > **Formação Cientista de Dados com Python e R [2022]** pela Udemy. Então, estudando Pyhton para esse curso. 
 - 😄 Pronouns: ela/dela
-- ⚡ Fun Fact: Essa minha foto de perfil é minha melhor foto 3x4 da vida. Tem que valorizar!
+- ⚡ Fun Fact: O meu forte é a rima ~
 
 ##
 <div align="center">
