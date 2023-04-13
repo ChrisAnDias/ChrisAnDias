@@ -2,9 +2,18 @@
 
 - 🔭 Open to work.
 - 🌱 Stutent for Data Science. 
-- 🐱‍💻 Participanting to #ElasnaIA, and so studing Artificial Intelligence. 
+- 🐱‍💻 Participanting to #ElasnaIA, and so studing too Artificial Intelligence. 
 - 😄 Pronouns: she/her
-- ⚡ Fun Fact: I'm no so funny ~
+- 🌎  Based in Campina Grande, Paraíba, Brazil
+- 👩‍💻  More about me: 
+        [LinkedIn](https://www.linkedin.com/in/deborachristyna/) 
+       
+
+Repository naming conventions:
+- `studies`: prefix to identify the repositories that concentrate my studies with exercises practices of courses I have taken
+- `DS`: Data Science
+- `BE`: Back-End 
+- `fork`: Repositories forked  
 
 ##
 <div align="center">
