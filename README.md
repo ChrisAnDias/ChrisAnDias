@@ -13,6 +13,7 @@ Repository naming conventions:
 - `studies`: prefix to identify the repositories that concentrate my studies with exercises practices of courses I have taken
 - `DS`: Data Science
 - `BE`: Back-End 
+- `PROJ`: Project
 - `fork`: Repositories forked  
 
 ##
