@@ -1,10 +1,10 @@
-## Oi, eu sou a Chris! 👋
+## Hi everybody! My name is Chris! 👋
 
-- 🔭 Em transição de carreira para #dados e #devBackEnd. Ainda trabalhando com projetos de Estruturas Metálicas.
-- 🌱 Yêeeei! Participando do curso de **Back-End da {Reprograma}**. Então estudando atualmente a linguagem **JavaScript** para esse curso. 
-- 🐱‍💻 E estudando mais > **Formação Cientista de Dados com Python e R [2022]** pela Udemy. Então, estudando Pyhton para esse curso. 
-- 😄 Pronouns: ela/dela
-- ⚡ Fun Fact: O meu forte é a rima ~
+- 🔭 Open to work.
+- 🌱 Stutent for Data Science. 
+- 🐱‍💻 Participanting to #ElasnaIA, and so studing Artificial Intelligence. 
+- 😄 Pronouns: she/her
+- ⚡ Fun Fact: I'm no so funny ~
 
 ##
 <div align="center">
