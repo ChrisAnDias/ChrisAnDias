@@ -1,10 +1,9 @@
-## Hi everybody! My name is Chris! 👋
+## Hi everybody! You can call me Chris! 👋
 
 - 🔭 Open to work.
-- 🌱 Stutent for Data Science. 
-- 🐱‍💻 Participanting to #ElasnaIA, and so studing too Artificial Intelligence. 
+- 🌱 Stutent for Data Engineering. 
 - 😄 Pronouns: she/her
-- 🌎  Based in Campina Grande, Paraíba, Brazil
+- 🌎  Based in Salvador, Bahia, Brazil
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/deborachristyna/) 
        
